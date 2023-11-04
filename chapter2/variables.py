@@ -2,6 +2,9 @@
 # keywords: Reserved word in python
 # Identifiers: class/ function/ variable name
 
-Name = "Akriti Subedi"
-Age = 21
-Weight = 40.5
+name = "Akriti Subedi"
+age = 21
+weight = 40.5
+print(name)
+print(age)
+print(weight)
