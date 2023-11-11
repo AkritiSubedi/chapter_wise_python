@@ -7,5 +7,5 @@ myDict = {
     "Bihan": "Morning"
 }
 print("Opetions are", myDict.keys())
-a = input("Enter the nepali word\n")
+a = input("Enter any nepali word\n")
 print("The meaning of your words is: ", myDict[a])
