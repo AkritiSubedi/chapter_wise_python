@@ -7,5 +7,5 @@ d = input("Enter your favorite language Prakriti\n")
 favLang['Akriti'] = a
 favLang['Kriti'] = b
 favLang['Riti'] = c
-favLang['Prakriti'] = d
+favLang['prakriti'] = d
 print(favLang)
