@@ -17,6 +17,6 @@ else:
     spam = False
 
 if(spam):
-    print("This text is spam")
+    print("This text is spam message")
 else:
-    print("This text is not spam")
+    print("This text is not spam message")

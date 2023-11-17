@@ -11,7 +11,7 @@ if(sub1<33 or sub2<33 or sub3<33):
 
 
 if(sub1 + sub2 + sub3)/3 < 40:
-    print("You are fail due to total percentage less than 40")
+    print("You are fail due to total percentage less than 40 percentage")
 
 else:
-    print("Congratulations! you passed the exam")
+    print("Congratulations! you passed the board exam")
