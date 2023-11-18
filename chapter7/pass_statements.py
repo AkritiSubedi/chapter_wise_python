@@ -5,4 +5,4 @@ if i>0:
     pass # pass is null statements in python It includes to "Do nothing"
 while i >6:
     pass
-print("Akriti is a good Girl")
+print("Hello! how are you ?")
