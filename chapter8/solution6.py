@@ -6,5 +6,5 @@ def remove_and_split(string, word):
 this= "     Hii How are you?  "
 n = remove_and_split(this, "Hii")
 print(n)
-# print(this)
-# print(this.strip()) # strip remove extra spaces
+print(this)
+print(this.strip()) # strip removes extra spaces
