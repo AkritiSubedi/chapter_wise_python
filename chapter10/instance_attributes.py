@@ -4,12 +4,12 @@ class Employee:
 
 kriti = Employee()
 
-akriti = Employee()
+aakriti = Employee()
 
 # creating instance attribute salary for both objects
 kriti.salary = 11500   
-akriti.salary = 1500
+aakriti.salary = 1500
 
 
 print(kriti.salary)
-print(akriti.salary)
+print(aakriti.salary)
