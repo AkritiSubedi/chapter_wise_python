@@ -17,10 +17,13 @@ class Complex:
         return Complex(mulReal, mulImg)
     
     def __str__(self) -> str:
-        return f"{self.real} + {self.imaginary}"
+        if self.imaginary<0:
+            return f"{self.real} - {self.imaginary}i"
+        else:
+            return f"{self.real} + {self.imaginary}i"
     
-c1 = Complex(11,4)
-c2 = Complex(8, 55)
+c1 = Complex(11,-4)
+c2 = Complex(-8, 55)
 print(c1+ c2)
 print(c1*c2)
 
